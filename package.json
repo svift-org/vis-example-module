@@ -1,0 +1,16 @@
+{
+  "name": "svift-vis-example",
+  "version": "1.0.0",
+  "description": "container module for holding examples, not to be included in final build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/svift/vis-example-module.git"
+  },
+  "author": "Sebastian Meier",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/svift/vis-example-module#readme"
+}
